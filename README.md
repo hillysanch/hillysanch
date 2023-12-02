@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hillysanch
+- 👋 Hi, I’m @HillarySanchez
 - 👀 I’m interested in ...getting out of healthcare
 - 🌱 I’m currently learning ...sql,windows server,lenix server,bash,powershell....also i'm 
 - 💞️ I’m looking to collaborate on ...
